@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+另一个存储库
+我是仔仔，这是我的第一次尝试〜！
